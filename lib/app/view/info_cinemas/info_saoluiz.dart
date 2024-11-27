@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// essa página mostra a história do cinema São Luiz
 class InfoSaoluizPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {

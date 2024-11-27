@@ -7,6 +7,8 @@ import '../../components/cards.dart';
 import '../../components/h2.dart';
 import '../filmes/ainda_estou_aqui.dart';
 
+// Página do cinema São Luiz, com direcionamento para filmes em cartaz e para a história do cinema
+
 class saoLuizPage extends StatefulWidget {
   const saoLuizPage({super.key});
 

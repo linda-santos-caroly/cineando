@@ -1,7 +1,7 @@
 
 
 import 'package:flutter/material.dart';
-//variaveis para textTheme
+// clase para textTheme com tamanho de fonte para títulos
 class H1 extends StatelessWidget {
   const H1(
       this.text, {

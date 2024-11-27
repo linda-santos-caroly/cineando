@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-
+// O filme 'Ainda estou aqui' foi utilizado como exemplo de filme em cartaz no cinema
+// essa página mostra a imagem do filme, horários e sinopse
 class MovieDetailPage extends StatelessWidget {
   const MovieDetailPage({Key? key}) : super(key: key);
 

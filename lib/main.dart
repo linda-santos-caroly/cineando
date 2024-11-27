@@ -29,10 +29,7 @@ class MyApp extends StatelessWidget {
                 color: textColor,
                 fontWeight: FontWeight.w500,
                 fontSize: 20),
-            // headlineMedium: TextStyle(
-            //     color: corPrincipal,
-            //     fontWeight: FontWeight.w600,
-            //     fontSize: 40),
+
           ),
         appBarTheme: const AppBarTheme(
           backgroundColor: corPrincipal,
@@ -44,7 +41,7 @@ class MyApp extends StatelessWidget {
         ),
 
       ),
-      home: InicioPage()
+      home: InicioPage()//direciona para página Inicio
     );
   }
 }

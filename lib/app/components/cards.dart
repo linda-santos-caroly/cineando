@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+
+//classe criada para os cards que foram utilizados para mostrar os cinemas e os filmes em cartaz
+
+
 class ImageTextContainer extends StatelessWidget {
   // Variáveis para o texto, a imagem e a tela de navegação
   final String imageUrl;

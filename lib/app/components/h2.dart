@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// classe para textTheme com tamanho de fonte média
 class H2 extends StatelessWidget {
   const H2(
       this.textBody, {

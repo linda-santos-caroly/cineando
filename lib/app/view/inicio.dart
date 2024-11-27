@@ -4,6 +4,7 @@ import 'package:flutter/rendering.dart';
 import '../components/cards.dart';
 import 'package:cineando_residencia/app/components/cards.dart';
 
+//Página principal que mostra todos os cinemas alternativos
 
 class InicioPage extends StatelessWidget {
   const InicioPage({super.key});
@@ -46,6 +47,8 @@ class InicioPage extends StatelessWidget {
               ],
             ),
 
+            //aqui serão utilizadas classes criadas no arquivo cards.dart para otimizar o código
+            // campo de texto preenchido com lorem ipsum
 
             ImageTextContainer(imageUrl: 'assets/images/cinema_sao_luiz.webp',
                 text: 'Cinema São Luiz',
